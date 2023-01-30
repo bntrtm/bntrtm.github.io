@@ -262,8 +262,8 @@ aside img {
     font-weight: 400;
   }
   100% {
-    top: -10;
-    left: -10;
+    top: -15;
+    left: -15;
     scale: 1.025;
     color: orange;
     font-weight: bold;
